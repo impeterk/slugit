@@ -1,4 +1,4 @@
-# <center>Slug It!</center>
+# <center> Slug It! </center>
 
 ## <center> Slug generator created with [bulma](https://bulma.io) and [alpine.js](https://alpinejs.dev). :evergreen_tree: </center>
 
