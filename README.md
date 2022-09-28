@@ -19,4 +19,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;I was not able to implement all of my custom styling with alpine. I had to create separate `<style>` for custom css styling, that was not provided with bulma. My goal was to be able to add custom classes to elements, but have defined those classes in the Apline code itself, or something amond those lines...:fast_forward: To be able to delete `<style>` and have all of my custom css in apline code and be able to access it *"globaly"*.
 
-####Ideas are welcomed :smile:
+#### Ideas are welcomed :smile:
